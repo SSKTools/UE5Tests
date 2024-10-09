@@ -1,0 +1,12 @@
+{
+    "mods": [
+        {
+            "name": "EnforcerMod",
+            "url": "http://example.com/EnforcerMod.pak"
+        },
+        {
+            "name": "ZoroMod",
+            "url": "http://example.com/ZoroMod.pak"
+        }
+    ]
+}
