@@ -1,0 +1,2 @@
+EnforcerFinal|https://github.com/SSKTools/UE5Tests/raw/refs/heads/main/EnforcerFinal.pak,
+Zoro|https://github.com/SSKTools/UE5Tests/raw/refs/heads/main/Zoro.pak
