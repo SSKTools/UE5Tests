@@ -1,10 +1,12 @@
-[
-    {
-        "name": "EnforcerFinal",
-        "url": "http://example.com/EnforcerFinal.pak"
-    },
-    {
-        "name": "Zoro",
-        "url": "http://example.com/Zoro.pak"
-    }
-]
+{
+    "mods": [
+        {
+            "name": "EnforcerMod",
+            "url": "http://example.com/EnforcerMod.pak"
+        },
+        {
+            "name": "ZoroMod",
+            "url": "http://example.com/ZoroMod.pak"
+        }
+    ]
+}
