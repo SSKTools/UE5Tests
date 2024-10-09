@@ -1,10 +1,10 @@
 [
     {
-        "name": "EnforcerMod",
-        "url": "http://example.com/EnforcerMod.pak"
+        "name": "EnforcerFinal",
+        "url": "http://example.com/EnforcerFinal.pak"
     },
     {
-        "name": "ZoroMod",
-        "url": "http://example.com/ZoroMod.pak"
+        "name": "Zoro",
+        "url": "http://example.com/Zoro.pak"
     }
 ]
